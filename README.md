@@ -15,7 +15,15 @@ The report provides an overview of key business metrics and enables users to exp
 - **Business Intelligence** - KPI monitoring and performance analysis
 
 ## Dashboard Pages
+### Dashboard Preview
 
+**Sales Overview**
+
+![Sales Overview](sales-overview.png)
+
+**Year-over-Year Analysis**
+
+![Year-over-Year Analysis](year-over-year-analysis.png)
 ### 1. Sales Overview
 
 - Total Sales, Total Profit, and Profit Margin KPIs
