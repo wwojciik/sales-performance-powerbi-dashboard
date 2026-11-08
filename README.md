@@ -49,7 +49,7 @@ The report provides an overview of key business metrics and enables users to exp
 
 ## Project Files
 
-The repository will include the Power BI report (`.pbix`) and dashboard screenshots.
+The repository includes the Power BI report (`.pbix`) and dashboard screenshots.
 
 ## Author
 
